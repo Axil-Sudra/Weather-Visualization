@@ -1,0 +1,8 @@
+Please note that the following packages will have to be installed to run the "Axil Sudra - White Swan Data - Dev Test.ipynb" script on Jupyter Notebook/Lab:
+• cartopy - please use the following command in Anaconda to install: conda install -c conda-forge cartopy
+
+If the script is run in python IDLE, please use the following pip command to install: pip install cartopy
+
+Note that the original GZ file ("weather.json.gz") was unzipped using winzip software (which is free to download).
+
+Please run the "Axil Sudra - White Swan Data - Dev Test.ipynb" script in the same directory as the data file called weather.json (provided as one of the attachments, as well as the original file).
